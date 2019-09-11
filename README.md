@@ -10,7 +10,7 @@ HusenHuang 的个人博客
 
 ### 最新
 
-* [你好Solo](http://www.limaila.com/articles/2019/09/10/1568099402560.html)
+* [Linux Yum安装JDK](http://www.limaila.com/articles/2019/09/10/1568104578196.html)
 
 
 
