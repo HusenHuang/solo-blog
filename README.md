@@ -10,6 +10,7 @@ HusenHuang 的个人博客
 
 ### 最新
 
+* [SpringBoot通用MongoDao封装](http://www.limaila.com/articles/2019/09/19/1568889839384.html)
 * [[Spring-Cloud-Alibaba] Sentinel 规则持久化](http://www.limaila.com/articles/2019/09/18/1568773626187.html)
 * [ZooKeeper + Curator 实现分布式锁](http://www.limaila.com/articles/2019/09/17/1568706766414.html)
 * [IDEA破解jrebel插件](http://www.limaila.com/articles/2019/09/16/1568621539458.html)
